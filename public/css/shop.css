@@ -1,0 +1,40 @@
+h2 {
+  position: relative;
+  padding: 0.25em 0;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+h2:after {
+  content: "";
+  display: block;
+  height: 4px;
+  border-bottom: 2px solid #7ED1E6;
+  /*
+  background: -webkit-linear-gradient(to left, rgb(255, 186, 115), #CCCCFF	);
+  background: linear-gradient(to left, rgb(255, 186, 115), #CCCCFF	);
+  */
+}
+
+
+/*
+h2{
+    border: 4px double #ddd;
+    margin: 10px 0;
+    padding: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+*/
+
+.under {
+  background: linear-gradient(transparent 70%, #B0C4DE 70%);
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h3 {
+  margin: 20px 0;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h5 {
+  margin: 10px;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}

@@ -1,0 +1,26 @@
+h4{
+    margin: 1em 0;
+    padding: 15px;
+    text-align: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.img-responsive {
+  display: block;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 233px;
+  height: 166px;
+  background-color: #FFF;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.img-fluid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+  background-color: #FFF;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}

@@ -1,0 +1,64 @@
+h2 {
+ margin: 0 0 10px 0;
+ padding: 10px;
+ font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h5 {
+ padding:5px;
+ font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+/*
+.row {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #000;
+    background: #F0F8FF;
+    border-left: solid 10px #B0C4DE;
+}
+*/
+
+/*
+.row {
+    border: 2px dashed #B0C4DE;
+    border-radius: 8px;
+    box-shadow: 0 0 0 4px #B0C4DE;
+    color: #000;
+    margin: 2em 0;
+    padding: 2em;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+*/
+
+.underline-wrapper {
+padding-bottom: .5em;
+border-bottom: 2px solid #7ED1E6;
+}
+
+.img-fluid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+  background-color: #FFF;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.img-fluid2 {
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  width: 90px;
+  height: 90px;
+  background-color: #FFF;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+
+.carousel-item {
+ width: 100%;
+ height: 100%;
+}
+
