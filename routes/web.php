@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('handmade.cucitoditta.top');
+    return view('handmade/cucitoditta/top');
 });
 
 Route::group(['prefix' => 'handmade'], function() {
