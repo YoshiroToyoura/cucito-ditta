@@ -11,9 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('handmade/cucitoditta/top');
-});
+Route::get('/', 'Handmade\CucitodittaController@add');
+
 
 Route::group(['prefix' => 'handmade'], function() {
     Route::get('cucitoditta/top', 'Handmade\CucitodittaController@add');
